@@ -1,5 +1,4 @@
-![Uploading Screenshot_2026-11-05-17-29-41-22_c7ddddab699b2e3ef5d75bd58d115805.jpg…]()
-[README.md](https://github.com/user-attachments/files/34432814/README.md)
+
 # 🎵 BobMusic
 
 **BobMusic** is a modern, high-fidelity native Android music player designed specifically for self-hosted **Navidrome** and **Subsonic** servers. Built with **Jetpack Compose** and an **iOS-inspired Liquid Glass UI**, BobMusic streams your personal music library bit-for-bit without lossy transcoding.
