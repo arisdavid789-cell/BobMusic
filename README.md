@@ -1,3 +1,6 @@
+<img width="1080" height="2400" alt="Screenshot_2026-11-05-17-30-04-42_c7ddddab699b2e3ef5d75bd58d115805" src="https://github.com/user-attachments/assets/ae5d663d-50f7-4c73-ba55-b54ef9ade6d0" />
+<img width="1080" height="2400" alt="Screenshot_2026-11-05-17-29-50-58_c7ddddab699b2e3ef5d75bd58d115805" src="https://github.com/user-attachments/assets/2ff5dc90-bb68-4d3e-9d2a-58ebf6d23b1f" />
+<img width="1080" height="2400" alt="Screenshot_2026-11-05-17-29-41-22_c7ddddab699b2e3ef5d75bd58d115805" src="https://github.com/user-attachments/assets/41aa58cc-21f5-4ab9-9e44-3f10e3bc1403" />
 
 # 🎵 BobMusic
 
